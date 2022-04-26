@@ -119,6 +119,8 @@ export default class CreateStory extends Component {
                 source={require("../assets/logo.png")}
                 style={styles.iconImage}
               ></Image>
+              <Text> this is a new feature</Text>
+              <Button tutle="click me"> </Button>
             </View>
             <View style={styles.appTitleTextContainer}>
               <Text
